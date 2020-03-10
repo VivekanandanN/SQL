@@ -1,0 +1,14 @@
+<itemList>
+	<item>
+		<itemNo>51</itemNo>
+		<name>Tops</name>
+		<cost>700</cost>
+		<quantity>50</quantity>
+	</item>
+	<item>
+		<itemNo>52</itemNo>
+		<name>Shoes</name>
+		<cost>1800</cost>
+		<quantity>65</quantity>
+	</item>
+</itemList>
